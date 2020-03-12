@@ -1,5 +1,6 @@
 # SMBCompScan
 Scanner script to identify hosts vulnerable to CVE-2020-0796
+
 https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2020-0796
 
 ## Requirements
