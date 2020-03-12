@@ -12,6 +12,11 @@ Scan a single IP address:
 ./smbCompScan.pl 192.168.0.1
 ```
 
+Scan by hostname:
+```sh
+./smbCompScan.pl some.vulnerable.host.tld
+```
+
 Scan a network:
 ```sh
 ./smbCompScan.pl 192.168.0.0/24
